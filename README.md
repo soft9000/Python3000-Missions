@@ -7,6 +7,8 @@ The Missions defined herein are designed to help prepare you for work in the rea
 
 If you are looking to create a Request For Proposal (**RFP**,) or an Invitation To Negotiate (**ITN**,) then you might also find these Missions instructive.
 
+If you are looking for some free & open professionally-described practice activities for beginners, then you might also enjoy [Python1000-Practice-Activities](https://github.com/soft9000/Python1000-Practice-Activities).
+
 ## Review Concepts
 
 If you need to prepare for an interview, then you may also enjoy our growing **PyQuest** series:
