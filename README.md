@@ -3,11 +3,15 @@ Practical, Professional Projects for Python 3
 
 ## Welcome!
 
-The Missions defined herein are designed to help prepare you for work in the real-world. By building upon your mastery of the Python programming language, this project defines applications using common design artifacts and requirement documentation. The type of mission requiremnts one might exepct to see from a software architect, designer, stakeholder, or client. Like our [Python by Design](https://www.amazon.com/dp/B08HJBD98J), the solution for each Mission hereunder will be available on [Amazon](https://www.amazon.com/Randall-Nagy/e/B08ZJLH1VN).
+The Missions defined herein are designed to help prepare you for work in the real-world. 
+
+By building upon your mastery of the Python programming language, this project defines applications using common design artifacts and requirement documentation. -The type of mission requiremnts one might exepct to see from a software architect, designer, stakeholder, or client. 
 
 If you are looking to create a Request For Proposal (**RFP**,) or an Invitation To Negotiate (**ITN**,) then you might also find these Missions instructive.
 
-If you are looking for some free & open professionally-described practice activities for beginners, then you might also enjoy [Python1000-Practice-Activities](https://github.com/soft9000/Python1000-Practice-Activities).
+Like our [Python by Design](https://www.amazon.com/dp/B08HJBD98J), the solution for each Mission hereunder will be available on [Amazon](https://www.amazon.com/Randall-Nagy/e/B08ZJLH1VN).
+
+*p.s.*  If you are looking for some free & open professionally-described practice activities for beginners, then you might also enjoy [Python1000-Practice-Activities](https://github.com/soft9000/Python1000-Practice-Activities).
 
 ## Review Concepts
 
