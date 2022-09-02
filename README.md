@@ -5,7 +5,7 @@ Practical, Professional Projects for Python 3
 
 The Missions defined herein are designed to help prepare you for work in the real-world. 
 
-By building upon your mastery of the Python programming language, this project defines applications using common design artifacts and requirement documentation. -The type of mission requiremnts one might exepct to see from a software architect, designer, stakeholder, or client. 
+By building upon your mastery of the Python programming language, this project defines applications using common design artifacts and requirement documentation. -The type of mission requirements one might expect to see from a software architect, designer, stakeholder, or client. 
 
 If you are looking to create a Request For Proposal (**RFP**,) or an Invitation To Negotiate (**ITN**,) then you might also find these Missions instructive.
 
@@ -70,9 +70,9 @@ Training: **Python 9000: [Review Concepts (K1 thru K10)](https://www.udemy.com/c
 
 Training: **Python 9000: [Review Concepts (K11 thru K22)](https://www.udemy.com/course/nagys-python-review-k11-k22/?referralCode=2280C848244C9714E1E2)**
 
--As well as our **Python 4000: [Linux Commands & DevOps Automation](https://www.udemy.com/course/python-4000-gnu-devops/?referralCode=E04F0744698A4BE930D7)**, and [EVEN MORE](https://www.udemy.com/user/randallnagy2/) progressional software development topics.
+-As well as our **Python 4000: [Linux Commands & DevOps Automation](https://www.udemy.com/course/python-4000-gnu-devops/?referralCode=E04F0744698A4BE930D7)**, and [EVEN MORE](https://www.udemy.com/user/randallnagy2/) professional software development topics.
 
-# Additional Opportunties
+# Additional Opportunities
 Weighing in at well over 20,000 Pythoneers, new students might also want to join my private **Python3 Training [group on Facebook](https://www.facebook.com/groups/Python3Training)**?
 
 My public nexus for Python 3 is also on [the fbook](https://www.facebook.com/groups/nagyspythontraining).
