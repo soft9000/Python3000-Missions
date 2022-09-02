@@ -28,9 +28,9 @@ Training: **Python 1100: [Programming For Beginners](https://www.udemy.com/cours
 
 Training: **Python 1200: [Practice For Beginners](https://www.udemy.com/course/python-1200/?referralCode=761AAF50A7B4BE1F9D51)**
 
-Training: **Python 1500: [Practice Missions](https://www.udemy.com/course/python-missions/?referralCode=9B7F3A61DA08519BCDA5)
+Training: **Python 1500: [Practice Missions](https://www.udemy.com/course/python-missions/?referralCode=9B7F3A61DA08519BCDA5)**
 
-Training: **Python 1501: [Practice Missions II](https://www.udemy.com/course/python-1501/?referralCode=3F9F570072A0DA5C925C)
+Training: **Python 1501: [Practice Missions II](https://www.udemy.com/course/python-1501/?referralCode=3F9F570072A0DA5C925C)**
 
 Training: **Python 2000: [Beyond The Basics](https://www.udemy.com/course/python-2000-beyond-the-basics/?referralCode=9620CB60C96D96CA346E)**
 
