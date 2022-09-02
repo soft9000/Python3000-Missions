@@ -1,9 +1,7 @@
 # Python3000-Missions
 Practical, Professional Projects for Python 3
 
-## Welcome to Python 3000 Missions!
-
-By now we should have a good understand of how to use Python's keywords, functions, and classes. 
+## Welcome!
 
 The Missions defined herein are designed to help prepare you for work in the real-world. By building upon your mastery of the Python programming language, this project defines applications using common design artifacts and requirement documentation. The type of mission requiremnts one might exepct to see from a software architect, designer, stakeholder, or client. Like our [Python by Design](https://www.amazon.com/dp/B08HJBD98J), the solution for each Mission hereunder will be available on [Amazon]().
 
@@ -21,7 +19,7 @@ If you need to prepare for an interview, then you may also enjoy our growing **P
 # RELATED TRAINING
 Our practice projects are designed to match our educational opportunities. Divided into a "beginner" (1000,) "Intermediate" (2000,) and "Advanced" (3000 - 9000) educational series, our ongoing mission is to fully support the unique needs of each experience level.
 
-## Mission One: DISCOVER "CORE PYTHON"
+## Mission: DISCOVER "CORE PYTHON"
 Everyone needs to understand what "comes with" Python 3! Known as "Core Python," and the "Python Standard Library," here is the recommended core-learning, topical lineup:
 
 Training: **Python 1000: [The Python Primer](https://www.udemy.com/course/python-1000/?referralCode=D3A7B607149F46D12A28)**
@@ -29,6 +27,10 @@ Training: **Python 1000: [The Python Primer](https://www.udemy.com/course/python
 Training: **Python 1100: [Programming For Beginners](https://www.udemy.com/course/python-1100b/?referralCode=8E70E46FA9579E5F3635)**
 
 Training: **Python 1200: [Practice For Beginners](https://www.udemy.com/course/python-1200/?referralCode=761AAF50A7B4BE1F9D51)**
+
+Training: **Python 1500: [Practice Missions](https://www.udemy.com/course/python-missions/?referralCode=9B7F3A61DA08519BCDA5)
+
+Training: **Python 1501: [Practice Missions II](https://www.udemy.com/course/python-1501/?referralCode=3F9F570072A0DA5C925C)
 
 Training: **Python 2000: [Beyond The Basics](https://www.udemy.com/course/python-2000-beyond-the-basics/?referralCode=9620CB60C96D96CA346E)**
 
@@ -40,7 +42,7 @@ Training: **Python 3000: [Tactical IPC](https://www.udemy.com/course/python-3000
 
 Training: **Python 3000: [SQLite Quick-Start](https://www.udemy.com/course/python-3000-tactical-sql-quick-start/?referralCode=3F97E2E5D0FEC5571C3B)**
 
-## Mission Three: TOPICAL PYTHON TRAINING
+## Mission: ENJOY TOPICAL PYTHON TRAINING (optional)
 
 Training: **Python 1300: [Grokking Regular Expressions](https://www.udemy.com/course/draft/2595154/?referralCode=3E09803ACE00FC08981A)**
 
