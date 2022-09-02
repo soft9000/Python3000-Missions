@@ -1,11 +1,11 @@
 # Python3000-Missions
-Practical, Professional Projects for Python 3
+*Practical, Professional Projects for Python 3.*
 
 ## Welcome!
 
 The Missions defined herein are designed to help prepare you for work in the real-world. 
 
-By building upon your mastery of the Python programming language, this project defines applications using common design artifacts and requirement documentation. -The type of mission requirements one might expect to see from a software architect, designer, stakeholder, or client. 
+By building upon your mastery of the Python programming language, this project defines applications using common design artifacts and requirement documentation. -The type of requirements one might expect to see from a software architect, designer, stakeholder, or client. 
 
 If you are looking to create a Request For Proposal (**RFP**,) or an Invitation To Negotiate (**ITN**,) then you might also find these Missions instructive.
 
